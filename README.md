@@ -7,4 +7,5 @@ PPL lab assignments
 5. Assignment-3
 6. Animals and Shapes
 7. Error handling
+9. Lisp function
 10.Prolog Assignment
