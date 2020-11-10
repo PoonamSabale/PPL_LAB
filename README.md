@@ -5,3 +5,4 @@ PPL lab assignments
 3. Assignment-2(A-1 to A-5)
 4. Assignment-2(B-1 to B-4)
 5. Assignment-3
+10.Prolog Assignment
